@@ -1,2 +1,3 @@
 # hello-world
-I am finally going to learn how to GitHub
+
+I seem to have an especially hard time defining myself when I am unemployed.
